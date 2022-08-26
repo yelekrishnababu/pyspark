@@ -1,0 +1,9 @@
+{
+	"name": "trainingdf45",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b54114cf-8a50-4a04-a652-04dbcd02f671",
+		"tenantId": "fdcf6fad-c3f0-4c66-8ca1-1e3aaac65150"
+	}
+}
