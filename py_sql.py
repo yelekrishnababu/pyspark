@@ -18,7 +18,6 @@ database = "ky2910"
 table = "dbo.tbl_spark_df"
 user = "ky2910"
 password = "Krishna@2000"
-
 # write the dataframe into a sql table
 df.write.mode("overwrite") \
     .format("jdbc") \
